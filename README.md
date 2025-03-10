@@ -10,4 +10,5 @@ If you encounter any issues or have feedback, please use the [discussions](https
 
 ### 0.1.0
 
-- [Download Initial community testing release](/releases/xpilot-0.1.0.vsix)
+- [Download](/releases/xpilot-0.1.0.vsix) the initial community testing release
+- To test xPilot, you will need to install the [MCP Servers Library](https://github.com/unievo/xpilot-mcp-library) that provide the initial implementation for the xPilot MultiversX knowledge base.
