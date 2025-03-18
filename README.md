@@ -17,7 +17,7 @@ If you encounter any issues or have feedback, please [open an issue](https://git
 ### 0.2.0 
 
 - Cline v3.7.0 features update
-- Added Romanian preferred language for model communication
+- Added Romanian preferred language option for model communication
 
 ### 0.1.0
 
